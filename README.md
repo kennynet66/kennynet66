@@ -31,7 +31,7 @@ I'm well-versed in various programming languages, frameworks, and tools, includi
 
 Here are the programming languages I've used in my repositories along with their respective percentages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?kennynet66=kennynet66&layout=compact)
 
 ## 🌐 Find Me Online
 
