@@ -23,13 +23,15 @@ I'm a passionate developer, lifelong learner, and tech enthusiast. I believe in 
 I'm well-versed in various programming languages, frameworks, and tools, including but not limited to:
 
 - 🚀 JavaScript
-- 🌐 React
-- 📱 React Native
+- 👨‍💻 C
 - 🐍 Python
-- 🧠 TensorFlow
 - 🌲 Node.js
-- 📦 Docker
-- ☁️ AWS
+- 🌐 HTML
+- 🍄 CSS/Tailwind css
+
+Here are the programming languages I've used in my repositories along with their respective percentages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ## 🌐 Find Me Online
 
