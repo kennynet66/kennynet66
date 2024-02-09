@@ -23,7 +23,7 @@ I'm a passionate developer, lifelong learner, and tech enthusiast. I believe in 
 I'm well-versed in various programming languages, frameworks, and tools, including but not limited to:
 
 - 🚀 JavaScript
-- 🎯 TyprScript
+- 🎯 TypeScript
 - 👨‍💻 C
 - 🐍 Python
 - 🌲 Node.js
