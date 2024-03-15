@@ -2,17 +2,19 @@
 
 Welcome to my GitHub profile.
 
-I'm a passionate developer, lifelong learner, and tech enthusiast. I believe in the power of code to change the world and make it a better place. My journey in the world of technology has been nothing short of incredible, and I'm excited to share it with you.
+I'm a passionate Quality assuarance Engineer(QA/QE), developer, lifelong learner, and tech enthusiast. I believe in the power of well written code to change the world and make it a better place. My journey in the world of technology has been nothing short of incredible, and I'm excited to share it with you.
 
 ## 💼 What I Do
-
-- 👨‍💻 Full-stack Developer
-- 🌐 Web Development
-- 🧠 Machine Learning and AI
-- 🚀 Building Awesome Projects
+- ⚙ Manual testing.
+- ⚙ Automated testing.
+- 👨‍💻 Full-stack Developer.
+- 🌐 Web Development.
+- 🧠 Machine Learning and AI.
+- 🚀 Building Awesome Projects.
 
 ## 🌟 My Values
 
+- ⚙ Certified Computer Hardware & Maintenance Engineer
 - 🚀 Innovation and Creativity
 - 🌐 Open Source Contribution
 - 📚 Lifelong Learning
@@ -22,13 +24,17 @@ I'm a passionate developer, lifelong learner, and tech enthusiast. I believe in 
 
 I'm well-versed in various programming languages, frameworks, and tools, including but not limited to:
 
+- 🎯 Jest
+- 🎯 Cypress
+- 🎯 Jasmine
 - 🚀 JavaScript
 - 🎯 TypeScript
+- 📐 Angular
 - 👨‍💻 C
-- 🐍 Python
 - 🌲 Node.js
 - 🌐 HTML
 - 🍄 CSS/Tailwind css
+- 🌬 Bootstrap
 
 Here are the programming languages I've used in my repositories along with their respective percentages:
 
