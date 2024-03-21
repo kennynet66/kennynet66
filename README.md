@@ -40,6 +40,7 @@ Here are the programming languages I've used in my repositories along with their
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennynet66&layout=compact)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennynet66&" alt="kennynet66" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kennynet66&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 ## 🌐 Find Me Online
 
